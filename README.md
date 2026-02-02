@@ -1,5 +1,7 @@
 # IA Assign2 - Multi-Class Prediction of Cirrhosis Outcomes
 
+## Grade: 18.5/20
+
 ## Description 
 
 This project addresses a multi-class classification problem related to cirrhosis outcomes.  
@@ -35,3 +37,4 @@ pip install -r requirements.txt
 - **Tomás Sabino Dias Costa**  ***up202205152@up.pt***
 
 ---
+
