@@ -1,4 +1,4 @@
-# IA Assign2 - Multi-Class Prediction of Cirrhosis Outcomes
+# IA Assign 2 - Multi-Class Prediction of Cirrhosis Outcomes
 
 ## Grade: 18.5/20
 
@@ -37,4 +37,5 @@ pip install -r requirements.txt
 - **Tomás Sabino Dias Costa**  ***up202205152@up.pt***
 
 ---
+
 
